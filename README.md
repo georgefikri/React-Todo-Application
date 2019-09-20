@@ -1,5 +1,5 @@
 # React JS  : ToDo Application
-- Creating ToDo Application with React JS 
+- Creating ToDo Application with React JS
 
 ## Main Files
 - ToDo App\todo-application\src\index.js
